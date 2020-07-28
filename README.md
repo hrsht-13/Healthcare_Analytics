@@ -40,4 +40,11 @@ Train.zip contains the following 6 csvs alongside the data dictionary that conta
 The evaluation metric for this hackathon is ROC-AUC Score.
 
 ## LeaderBoard
+
+No. of Registered: 14458
+
+Public Leaderboard rank: 227
+
+Private Leaderboard rank: 237
+
 https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#LeaderBoard
